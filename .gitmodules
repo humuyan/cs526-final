@@ -1,0 +1,9 @@
+[submodule "tvm"]
+	path = tvm
+	url = git@github.com:balamurugan15/tvm-kernel-mapper.git
+[submodule "cases/onnx-export/yolov4"]
+	path = cases/onnx-export/yolov4
+	url = git@github.com:Tianxiaomo/pytorch-YOLOv4.git
+[submodule "cases/onnx-export/efficientvit"]
+	path = cases/onnx-export/efficientvit
+	url = git@github.com:humuyan/vit-deploy.git
